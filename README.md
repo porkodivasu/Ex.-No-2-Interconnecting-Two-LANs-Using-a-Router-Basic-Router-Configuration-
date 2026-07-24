@@ -61,7 +61,6 @@ ________________________________________
 •	Router CLI configuration<br>
 •	IP configurations on PCs<br>
 •	Successful ping between PC0 and PC1<br>
-<img width="1920" height="1080" alt="Screenshot (361)" src="https://github.com/user-attachments/assets/905f972b-dcbe-43ce-a8af-92775d65d874" />
 <img width="1920" height="1080" alt="Screenshot (362)" src="https://github.com/user-attachments/assets/cc0369e1-70d5-410b-ad9f-da344c2cfc7d" />
 
 ________________________________________
